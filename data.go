@@ -181,7 +181,7 @@ func initPrefixes() *gotrie.Trie {
 	prefixes.Insert(gotrie.Prefix("421"), "SK")
 	prefixes.Insert(gotrie.Prefix("423"), "LI")
 	prefixes.Insert(gotrie.Prefix("43"), "AT")
-	prefixes.Insert(gotrie.Prefix("44"), "GB")
+	prefixes.Insert(gotrie.Prefix("44"), "UK")
 	prefixes.Insert(gotrie.Prefix("45"), "DK")
 	prefixes.Insert(gotrie.Prefix("46"), "SE")
 	prefixes.Insert(gotrie.Prefix("47"), "NO")
